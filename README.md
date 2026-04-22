@@ -27,7 +27,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-8f7b0b88-3c1c-4a6d-9f63-2c9c6c6f0f9c.gif" width="300"/>
 </p>
 
 ---
