@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi, I'm Pranisha</h1>
 <h3 align="center">Full Stack Developer | BIT Student 💻✨</h3>
 
@@ -26,6 +23,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxMjMzNTIsIm5iZiI6MTc3ODEyMzA1MiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDAzMDQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjODAyZWFlNjgxOGU4N2IzM2NjMGI3YzE5MTU0ZWMyZGY5ZWFlOWY1ZmNiYjViYzBkODBhYjNiMWI2MGE1MjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.GOEvsnaMG-WUDtpzU6t2Efqs5nfEQk1q9YnSYKPsAo8" width="500"/>
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-8f7b0b88-3c1c-4a6d-9f63-2c9c6c6f0f9c.gif" width="300"/>
 </p>
