@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pranisha 👋</h1>
-<h3 align="center">Full Stack Developer | BIT Student 💻✨</h3>
+<h1 align="center">Hi, I'm Pranisha </h1>
+<h3 align="center">Full Stack Developer | BIT Student 💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Building+real+world+projects" alt="Typing SVG" />
@@ -9,10 +9,10 @@
 
 ## 🌸 About Me
 
-- 💻 Full Stack Developer
-- 🎓 BIT Student
-- 🌱 Currently learning advanced backend & system design
-- ⚡ Love building real-world projects
+- Full Stack Developer
+- BIT Student
+- Currently learning advanced backend & system design
+- Love building real-world projects
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 👩‍💻 Coding Vibes
+## Coding Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
